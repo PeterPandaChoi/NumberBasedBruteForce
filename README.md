@@ -1,4 +1,4 @@
-# Number Based Brute Force
+# NumberBasedBruteForce
 숫자 기반으로 brute force를 자동 실행해주는 코드입니다.
 <br/> This code automates Brute Force process and is Number based. **(it does not Dictionary Attack)**
 
