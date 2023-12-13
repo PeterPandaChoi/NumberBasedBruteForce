@@ -2,8 +2,8 @@
 숫자 기반으로 brute force를 자동 실행해주는 코드입니다.
 
 # Abstract
-<br/> This code automates Brute Force process and is Number based. **(it does not Dictionary Attack)**
-<br/> currently only support GET method.
+This code automates Brute Force process and is Number based. **(it does not Dictionary Attack)** <br/> 
+currently only support GET method. <br/> 
 
 # process
 1. set starting/ending number
